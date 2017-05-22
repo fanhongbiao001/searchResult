@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="接口自动化测试" duration-ms="1046" started-at="2017-05-22T10:50:53Z" finished-at="2017-05-22T10:50:54Z">
+    <groups>
+    </groups>
+    <test name="自动化测试用例" duration-ms="1046" started-at="2017-05-22T10:50:53Z" finished-at="2017-05-22T10:50:54Z">
+      <class name="search.searchResult.TestSearch">
+        <test-method status="PASS" signature="testSearch()[pri:0, instance:search.searchResult.TestSearch@1ee9faa]" name="testSearch" duration-ms="1000" started-at="2017-05-22T18:50:53Z" finished-at="2017-05-22T18:50:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch -->
+      </class> <!-- search.searchResult.TestSearch -->
+    </test> <!-- 自动化测试用例 -->
+  </suite> <!-- 接口自动化测试 -->
+</testng-results>
